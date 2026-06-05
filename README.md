@@ -10,3 +10,44 @@ This project aims to develop a Digital Prescription & Smart Medication Delivery 
 - Order processing
 - Delivery tracking
 - Secure user authentication
+
+## Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+- CSV File Storage
+
+## Design Patterns
+
+- Factory Method Pattern
+- Observer Pattern
+- Facade Pattern
+
+## Project Structure
+
+```text
+src/
+ ├── models/
+ ├── services/
+ ├── patterns/
+ ├── enums/
+ ├── utils/
+ └── Main.java
+
+data/
+ ├── patients.csv
+ ├── doctors.csv
+ ├── pharmacies.csv
+ └── medications.csv
+```
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in VS Code or IntelliJ IDEA.
+3. Ensure Java is installed.
+4. Run `Main.java`.
+
+## Authors
+
+Zeynep Nilay Yazıcı
