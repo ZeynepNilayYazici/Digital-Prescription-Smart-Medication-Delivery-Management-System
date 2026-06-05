@@ -40,6 +40,15 @@ data/
  ├── pharmacies.csv
  └── medications.csv
 ```
+## UML Diagrams
+
+The project documentation includes:
+
+- Use Case Diagram
+- Class Diagram
+- Sequence Diagram
+
+These diagrams can be found in the `diagrams` folder.
 
 ## How to Run
 
