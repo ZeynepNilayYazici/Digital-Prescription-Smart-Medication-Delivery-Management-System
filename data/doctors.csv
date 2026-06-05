@@ -1,0 +1,5 @@
+DoctorID,FirstName,LastName,Specialization,LicenseNumber
+D001,Ahmet,Ozturk,General Practitioner,LIC-10001
+D002,Elif,Sahin,Cardiologist,LIC-10002
+D003,Burak,Yildiz,Orthopedist,LIC-10003
+D004,Selin,Koc,Neurologist,LIC-10004

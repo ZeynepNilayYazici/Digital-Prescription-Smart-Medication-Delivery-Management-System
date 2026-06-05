@@ -1,0 +1,7 @@
+MedicationID,MedicationName,ActiveIngredients,AllergenicCompounds,PrescriptionType
+M001,Amoxicillin,Amoxicillin,Penicillin,NORMAL
+M002,Morphine,Morphine,None,CONTROLLED
+M003,Ibuprofen,Ibuprofen,Aspirin,NORMAL
+M004,Metformin,Metformin,None,NORMAL
+M005,OxyContin,Oxycodone,None,CONTROLLED
+M006,Azithromycin,Azithromycin,None,NORMAL

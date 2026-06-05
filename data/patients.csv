@@ -1,0 +1,6 @@
+PatientID,FirstName,LastName,Gender,DateOfBirth,Address,Phone,Allergies,DeliveryEligible,EligibilityReason
+P001,Ayse,Yilmaz,Female,1952-03-14,Ankara,5551112233,Penicillin,true,Age above 65
+P002,Mehmet,Kaya,Male,1980-07-22,Istanbul,5552223344,None,false,
+P003,Fatma,Demir,Female,1945-11-05,Izmir,5553334455,Aspirin,true,Age above 65
+P004,Ali,Celik,Male,1990-04-18,Bursa,5554445566,None,false,
+P005,Zeynep,Arslan,Female,1958-09-30,Ankara,5555556677,Penicillin|Sulfa,true,Age above 65
